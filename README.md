@@ -2,7 +2,7 @@
 
 ## C++
 
-[STL标准库](https://github.com/LookAt-MeNow/try/blob/master/c%2B%2B/STL%E6%A0%87%E5%87%86%E5%BA%93/STL%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF%E5%BA%93.md)
+[STL标准库](c%2B%2B/STL%E6%A0%87%E5%87%86%E5%BA%93/STL%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF%E5%BA%93.md)
 
 [环境配置](https://github.com/LookAt-MeNow/try/blob/master/c%2B%2B/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/vscode%E9%85%8D%E7%BD%AE/vscode.md)
 
