@@ -28,4 +28,4 @@
 
 ## 资源分享
 
-[学习网站](../资源分享/学习网站/学习网站.md)
+[学习网站](https://github.com/LookAt-MeNow/try/blob/master/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99.md)
