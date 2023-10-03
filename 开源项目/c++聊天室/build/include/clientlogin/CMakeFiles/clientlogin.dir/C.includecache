@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhang/net_design/include/clientlogin/clientlogin.c
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+clientlogin.h
+/home/zhang/net_design/include/clientlogin/clientlogin.h
+
+/home/zhang/net_design/include/clientlogin/clientlogin.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libserverlogin.a  CMakeFiles/serverlogin.dir/serverlogin.c.o
+/usr/bin/ranlib ../../lib/libserverlogin.a

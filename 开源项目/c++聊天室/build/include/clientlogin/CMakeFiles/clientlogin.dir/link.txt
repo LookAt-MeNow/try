@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libclientlogin.a  CMakeFiles/clientlogin.dir/clientlogin.c.o
+/usr/bin/ranlib ../../lib/libclientlogin.a

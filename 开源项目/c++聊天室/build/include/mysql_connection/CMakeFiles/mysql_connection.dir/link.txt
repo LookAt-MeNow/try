@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libmysql_connection.a  CMakeFiles/mysql_connection.dir/mysql_connect.c.o
+/usr/bin/ranlib ../../lib/libmysql_connection.a

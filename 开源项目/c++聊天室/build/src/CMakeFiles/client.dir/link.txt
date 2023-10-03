@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/client.dir/client.c.o  -o ../bin/client ../lib/libclientlogin.a ../lib/libmysql_connection.a ../lib/liberro.a -lpthread -lmysqlclient 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/liberro.a  CMakeFiles/erro.dir/erro.c.o
+/usr/bin/ranlib ../../lib/liberro.a

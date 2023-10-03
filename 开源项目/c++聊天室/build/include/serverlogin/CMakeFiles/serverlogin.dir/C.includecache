@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhang/net_design/include/mysql_connection/mysql_connect.h
+mysql/mysql.h
+-
+stdio.h
+-
+stdbool.h
+-
+
+/home/zhang/net_design/include/serverlogin/serverlogin.c
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+mysql/mysql.h
+-
+../mysql_connection/mysql_connect.h
+/home/zhang/net_design/include/mysql_connection/mysql_connect.h
+serverlogin.h
+/home/zhang/net_design/include/serverlogin/serverlogin.h
+
+/home/zhang/net_design/include/serverlogin/serverlogin.h
+mysql/mysql.h
+-
+

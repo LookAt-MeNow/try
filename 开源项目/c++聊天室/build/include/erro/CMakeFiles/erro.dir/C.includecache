@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhang/net_design/include/erro/erro.c
+stdio.h
+-
+erro.h
+/home/zhang/net_design/include/erro/erro.h
+
+/home/zhang/net_design/include/erro/erro.h
+

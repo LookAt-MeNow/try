@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mysql_connect.h": "c",
+        "clientlogin.h": "c",
+        "serverlogin.h": "c"
+    }
+}
